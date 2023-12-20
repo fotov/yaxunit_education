@@ -38,4 +38,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonModules>CommonModule.РасчетНДС</commonModules>
+  <enums>Enum.СтавкиНДС</enums>
 </mdclass:Configuration>
