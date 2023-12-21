@@ -38,6 +38,15 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.ДемоКонфигурация</subsystems>
   <commonModules>CommonModule.РасчетНДС</commonModules>
+  <catalogs>Catalog.Договоры</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Организации</catalogs>
+  <catalogs>Catalog.Склады</catalogs>
+  <documents>Document.ПоступлениеТоваров</documents>
   <enums>Enum.СтавкиНДС</enums>
+  <accumulationRegisters>AccumulationRegister.Взаиморасчеты</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.Товары</accumulationRegisters>
 </mdclass:Configuration>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="45d8c9ab-2510-4fbc-874a-886d458c1806">
+  <name>АК_ОбщегоНазначения</name>
+  <synonym>
+    <key>ru</key>
+    <value>Общего назначения (Автомакон)</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>

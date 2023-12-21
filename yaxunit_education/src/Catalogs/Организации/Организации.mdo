@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e2d99565-4e3d-4ded-aaf6-37be7dc4bba8">
+  <producedTypes>
+    <objectType typeId="d63aa645-ae4c-40b7-ae4f-185bb664c406" valueTypeId="032d8fda-6200-4e78-9541-7f1b17fa66c8"/>
+    <refType typeId="33fdc7ab-45ba-48e0-9afd-c59c7a0b2fba" valueTypeId="663da91c-fff7-4b12-9fba-919d19278e69"/>
+    <selectionType typeId="a105284a-d5f2-42d6-9ac0-d9a10f767f62" valueTypeId="93832304-cf17-43f7-a03f-82d524b22725"/>
+    <listType typeId="6e5124f0-a05e-4c37-9729-4e4f99904482" valueTypeId="bf462982-88c9-4d20-acb7-edfff983a0ae"/>
+    <managerType typeId="86c97305-2e95-40f5-bcb2-e08037944a67" valueTypeId="72afbe1d-1147-4f86-964f-44f9767b8b95"/>
+  </producedTypes>
+  <name>Организации</name>
+  <synonym>
+    <key>ru</key>
+    <value>Организации</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Организации.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Организации.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <predefined>
+    <items id="4397f492-ae8f-43c6-b04b-89b0b73a36ef">
+      <name>ОсновнаяОрганизация</name>
+      <description>Основная организация</description>
+      <code xsi:type="core:StringValue">
+        <value>000000001</value>
+      </code>
+    </items>
+  </predefined>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
