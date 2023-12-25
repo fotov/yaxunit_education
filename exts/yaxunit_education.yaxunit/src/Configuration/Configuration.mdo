@@ -46,6 +46,7 @@
   <commonTemplates>CommonTemplate.ЮТRegEx1CAddin</commonTemplates>
   <commonTemplates>CommonTemplate.ЮТYaxUnitAddIn</commonTemplates>
   <commonTemplates>CommonTemplate.ЮТОписаниеМетаданных</commonTemplates>
+  <commonModules>CommonModule._Документ_ПоступлениеТоваров</commonModules>
   <commonModules>CommonModule._ОМ_РасчетНДС</commonModules>
   <commonModules>CommonModule.АК_ОбщегоНазначения</commonModules>
   <commonModules>CommonModule.Мокито</commonModules>
@@ -112,6 +113,7 @@
   <commonModules>CommonModule.ЮТФильтрация</commonModules>
   <commonModules>CommonModule.ЮТЧитатель</commonModules>
   <commonModules>CommonModule.ЮТЧитательСервер</commonModules>
+  <documents>Document.ПоступлениеТоваров</documents>
   <dataProcessors>DataProcessor.ЮТHTTPСервисЗапрос</dataProcessors>
   <dataProcessors>DataProcessor.ЮТКонструкторТестовыхДанных</dataProcessors>
   <dataProcessors>DataProcessor.ЮТЮнитТесты</dataProcessors>

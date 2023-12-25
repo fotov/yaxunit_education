@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="db162782-d380-4681-becf-4c0712dccb89">
+  <producedTypes>
+    <objectType typeId="db10508f-b567-455a-8aeb-213ae431b4d2" valueTypeId="555fa333-640b-4ea6-a1f2-86adaf5a1c74"/>
+    <refType typeId="df0b54d8-7ed6-4068-b245-58de8b5c4ea7" valueTypeId="2fc42ae3-5569-432a-a4d0-757a6ac7fd37"/>
+    <selectionType typeId="10c183de-c5ad-4edf-bc63-f04ca0ace279" valueTypeId="2d8d8c20-c3a0-46a5-af52-d1f232e50ba5"/>
+    <listType typeId="1b641548-e220-45d3-ab16-28545d7d9598" valueTypeId="41c55f1a-1618-4b79-a02b-f53e023c37f5"/>
+    <managerType typeId="3e1317cb-91e3-49d7-959a-e7f39df619f3" valueTypeId="0b9965a0-69fb-408f-b49f-d50956e63cf6"/>
+  </producedTypes>
+  <name>ПоступлениеТоваров</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension"/>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:Document>

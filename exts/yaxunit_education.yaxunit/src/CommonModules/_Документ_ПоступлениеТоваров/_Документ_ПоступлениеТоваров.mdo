@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="92b81d16-9e77-45ad-ac81-4f956a7cb6e7">
+  <name>_Документ_ПоступлениеТоваров</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тестирование Документ поступление товаров</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>
