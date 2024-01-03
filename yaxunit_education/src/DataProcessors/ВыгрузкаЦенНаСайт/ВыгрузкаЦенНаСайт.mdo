@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bad55053-44f1-44a6-89d9-bc0099dbf67b">
+  <producedTypes>
+    <objectType typeId="02adb007-39f1-41d0-8058-fdf14705c6f7" valueTypeId="21cd7599-7cbd-432d-98b4-117169d6b5f1"/>
+    <managerType typeId="86d0c567-fdf2-4714-8696-47761e832dbd" valueTypeId="9b46cfa2-f4fb-4f33-ae46-1784c1273fe5"/>
+  </producedTypes>
+  <name>ВыгрузкаЦенНаСайт</name>
+  <synonym>
+    <key>ru</key>
+    <value>Выгрузка цен на сайт</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DataProcessor>
