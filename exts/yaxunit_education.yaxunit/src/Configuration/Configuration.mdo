@@ -47,12 +47,14 @@
   <commonTemplates>CommonTemplate.ЮТYaxUnitAddIn</commonTemplates>
   <commonTemplates>CommonTemplate.ЮТОписаниеМетаданных</commonTemplates>
   <commonModules>CommonModule._Документ_ПоступлениеТоваров</commonModules>
+  <commonModules>CommonModule._Обработка_ВыгрузкаЦенНаСайт</commonModules>
   <commonModules>CommonModule._ОМ_РасчетНДС</commonModules>
   <commonModules>CommonModule.АК_ОбщегоНазначения</commonModules>
   <commonModules>CommonModule.Мокито</commonModules>
   <commonModules>CommonModule.МокитоОбучение</commonModules>
   <commonModules>CommonModule.МокитоПроверки</commonModules>
   <commonModules>CommonModule.МокитоСлужебный</commonModules>
+  <commonModules>CommonModule.РаботаСБД</commonModules>
   <commonModules>CommonModule.ЮТАсинхроннаяОбработкаСлужебныйКлиент</commonModules>
   <commonModules>CommonModule.ЮТест</commonModules>
   <commonModules>CommonModule.ЮТЗапросы</commonModules>

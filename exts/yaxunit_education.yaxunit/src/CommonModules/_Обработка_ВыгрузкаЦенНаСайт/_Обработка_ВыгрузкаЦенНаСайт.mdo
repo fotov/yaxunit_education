@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="915d47a0-6ef4-48d0-bdeb-0ffcd0f14793">
+  <name>_Обработка_ВыгрузкаЦенНаСайт</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тестирование обработка выгрузка цен на сайт</value>
+  </synonym>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>
