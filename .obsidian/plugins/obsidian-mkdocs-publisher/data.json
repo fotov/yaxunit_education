@@ -1,8 +1,8 @@
 {
   "github": {
-    "user": "",
-    "repo": "",
-    "branch": "main",
+    "user": "fotov",
+    "repo": "yaxunit_education",
+    "branch": "book",
     "automaticallyMergePR": true,
     "tokenPath": "%configDir%/plugins/%pluginID%/env",
     "api": {
@@ -14,12 +14,12 @@
       "name": ""
     },
     "otherRepo": [],
-    "verifiedRepo": false,
-    "rateLimit": 0
+    "verifiedRepo": true,
+    "rateLimit": 4998
   },
   "upload": {
     "behavior": "fixed",
-    "defaultName": "",
+    "defaultName": "docs",
     "rootFolder": "",
     "yamlFolderKey": "",
     "frontmatterTitle": {
@@ -54,7 +54,7 @@
     "links": {
       "internal": false,
       "unshared": false,
-      "wiki": false,
+      "wiki": true,
       "slugify": false
     }
   },
@@ -82,5 +82,5 @@
     "displayModalRepoEditing": false,
     "migrated": true
   },
-  "tabsID": "github-configuration"
+  "tabsID": "text-conversion"
 }

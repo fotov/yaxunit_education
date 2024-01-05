@@ -1,3 +1,6 @@
+---
+share: true  
+---
 https://bia-technologies.github.io/yaxunit/docs/user-api/test-data/#чтение-из-таблицы-markdown
 
 https://bia-technologies.github.io/yaxunit/docs/user-api/test-data/#загрузка-данных-из-макетов
