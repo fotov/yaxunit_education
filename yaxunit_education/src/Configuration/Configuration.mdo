@@ -39,6 +39,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.ДемоКонфигурация</subsystems>
+  <commonModules>CommonModule.ОбщегоНазначения</commonModules>
   <commonModules>CommonModule.РаботаСБД</commonModules>
   <commonModules>CommonModule.РасчетНДС</commonModules>
   <catalogs>Catalog.Договоры</catalogs>
