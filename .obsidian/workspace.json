@@ -13,43 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. План обучения.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9b170be1332afe4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Предикаты.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "602da34e905e2836",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Проверка на соответствие Предикатам.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83d3db6ba44c2810",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Наличие свойств, реквизитов.md",
+                "file": "Структура теста.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Задания для проверки знаний.md",
+                "file": "Структура теста.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Задания для проверки знаний.md",
+                "file": "Структура теста.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Задания для проверки знаний.md"
+                "file": "Структура теста.md"
               }
             }
           },
@@ -224,17 +188,17 @@
         "x": 1248,
         "y": 778,
         "width": 1442,
-        "height": 977,
+        "height": 952,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "35bd920088f1d901",
+  "active": "123608bd4086686b",
   "lastOpenFiles": [
     "0. План обучения.md",
-    "Задания для проверки знаний.md",
     "Предикаты.md",
+    "Задания для проверки знаний.md",
     "Проверка на соответствие Предикатам.md",
     "Работа с коллекциями.md",
     "Наличие свойств, реквизитов.md",
