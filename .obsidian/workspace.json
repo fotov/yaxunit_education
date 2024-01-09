@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ed392c0d3ae505c9",
+        "id": "263bfc0fdb322953",
         "type": "tabs",
         "children": [
           {
-            "id": "123608bd4086686b",
+            "id": "14fb9e4cbc4dee66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Структура теста.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ЮТТест.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +61,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "52b19b2a748c2fa7",
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Структура теста.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Структура теста.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Структура теста.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,71 +149,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "852c5cd74f359003",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f901edcd88ba70a2",
-        "type": "window",
-        "children": [
-          {
-            "id": "87de05d5ddd2b2fd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "35bd920088f1d901",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Задания для проверки знаний.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1248,
-        "y": 778,
-        "width": 1442,
-        "height": 952,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "123608bd4086686b",
+  "active": "14fb9e4cbc4dee66",
   "lastOpenFiles": [
-    "0. План обучения.md",
-    "Предикаты.md",
-    "Задания для проверки знаний.md",
-    "Проверка на соответствие Предикатам.md",
-    "Работа с коллекциями.md",
-    "Наличие свойств, реквизитов.md",
-    "Загрузка данных из MarkDown и Табличных документов.md",
-    "Шаблон добавления теста.md",
-    "Что такое юнит тестирование.md",
-    "Тестовые наборы.md",
-    "Текучий интерфейс.md",
-    "Структура теста.md",
+    "docs/Сравнение значений.md",
     "Сравнение значений.md",
-    "Создание поддельных данных БД с конструктором.md",
+    "docs/Создание поддельных данных БД без конструктора.md",
     "Создание поддельных данных БД без конструктора.md",
-    "Работа с документацией yaxunit.md",
+    "docs/Работа с коллекциями.md",
+    "Работа с коллекциями.md",
+    "docs/Проверка типа.md",
     "Проверка типа.md",
+    "docs/Проверка строк.md",
     "Проверка строк.md",
-    "Проверка методов.md",
-    "Пример кода для юнит теста.md",
+    "docs/Позиционирование объект - Свойство - Элемент.md",
+    "docs/Наличие свойств, реквизитов.md",
     "Позиционирование объект - Свойство - Элемент.md",
-    "Обработчики событий.md",
-    "Мокито.md",
-    "Контексты.md",
-    "Запросы и работа с БД.md",
+    "Наличие свойств, реквизитов.md",
+    "docs/Заполненность.md",
     "Заполненность.md",
+    "Генерация случайных данных.md",
+    "docs/Вхождение в интервал.md",
+    "Вхождение в интервал.md",
+    "0. План обучения.md",
+    "Задания для проверки знаний.md",
+    "Шаблон добавления теста.md",
+    "Структура теста.md",
+    "Предикаты.md",
+    "Проверка на соответствие Предикатам.md",
+    "Загрузка данных из MarkDown и Табличных документов.md",
     "html/readme.html",
     "html/шаблон-добавления-теста.html",
     "html/что-такое-юнит-тестирование.html",
